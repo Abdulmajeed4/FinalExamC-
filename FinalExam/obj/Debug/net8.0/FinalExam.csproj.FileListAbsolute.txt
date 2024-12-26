@@ -1,0 +1,14 @@
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\bin\Debug\net8.0\FinalExam.exe
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\bin\Debug\net8.0\FinalExam.deps.json
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\bin\Debug\net8.0\FinalExam.runtimeconfig.json
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\bin\Debug\net8.0\FinalExam.dll
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\bin\Debug\net8.0\FinalExam.pdb
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.AssemblyInfo.cs
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.dll
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\refint\FinalExam.dll
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.pdb
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\FinalExam.genruntimeconfig.cache
+C:\Users\asa80\OneDrive\المستندات\C# projects make tham here\FinalExam\obj\Debug\net8.0\ref\FinalExam.dll
